@@ -10,7 +10,7 @@ export default function Hero() {
 		<section className="relative h-screen flex items-center justify-center overflow-hidden">
 			<div className="relative z-10 text-center">
 				<h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
-					Happy Valentine's Day, Koibito!
+					Happy Valentine&apos;s Day, Koibito!
 				</h1>
 				<p className="text-xl md:text-2xl text-white mb-8">
 					Open the envelope to reveal a special message
@@ -32,11 +32,11 @@ export default function Hero() {
 							{" "}
 							Yes, we have our differences and we bicker atimes but even in
 							those times I just want to hold you, kiss you and be with you.
-							Being with you isn't like how it is with other people, when I am
-							with you I feel over the moon and confident in myself. You bring
-							out the best part of me and most importantly you bring out the
-							lover boy in me. Hard guy hard guy but for you I will cry if it
-							means being with you.{" "}
+							Being with you isn&apos;t like how it is with other people, when I
+							am with you I feel over the moon and confident in myself. You
+							bring out the best part of me and most importantly you bring out
+							the lover boy in me. Hard guy hard guy but for you I will cry if
+							it means being with you.{" "}
 						</p>
 						<p>
 							I am grateful to be loved by you, I am happy that I can love you
@@ -49,10 +49,10 @@ export default function Hero() {
 							{" "}
 							Finally, I am sorry for not asking you to be my Valentine. I see
 							it as a given that you will be my Valentine because you are the 1
-							4 me and we are together, so I don't see the need to ask again.
-							Nevertheless, I appreciate the thought you put into asking me to
-							be your Valentine and I definitely learned from that, and I will
-							do better next time by God's grace.
+							4 me and we are together, so I don&apos;t see the need to ask
+							again. Nevertheless, I appreciate the thought you put into asking
+							me to be your Valentine and I definitely learned from that, and I
+							will do better next time by God&apos;s grace.
 						</p>
 						<p> Love you always, Your Prince Charming</p>
 						<button
