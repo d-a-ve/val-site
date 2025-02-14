@@ -15,8 +15,8 @@ module.exports = {
 				handwriting: ["Caveat", "cursive"],
 			},
 			animation: {
-				marquee: "marquee 30s linear infinite",
-				"marquee-reverse": "marquee-reverse 30s linear infinite",
+				marquee: "marquee 15s linear infinite",
+				"marquee-reverse": "marquee-reverse 15s linear infinite",
 			},
 			keyframes: {
 				marquee: {
