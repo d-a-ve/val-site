@@ -14,20 +14,6 @@ module.exports = {
 			fontFamily: {
 				handwriting: ["Caveat", "cursive"],
 			},
-			animation: {
-				marquee: "marquee 15s linear infinite",
-				"marquee-reverse": "marquee-reverse 15s linear infinite",
-			},
-			keyframes: {
-				marquee: {
-					"0%": { transform: "translateX(0%)" },
-					"100%": { transform: "translateX(-90%)" },
-				},
-				"marquee-reverse": {
-					"0%": { transform: "translateX(-90%)" },
-					"100%": { transform: "translateX(0%)" },
-				},
-			},
 			colors: {
 				border: "hsl(var(--border))",
 				input: "hsl(var(--input))",
